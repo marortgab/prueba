@@ -1,0 +1,16 @@
+{
+  "studentName": "Alberto",
+  "siteTitle": "Mi aventura en español",
+  "currentLevel": "A2",
+  "targetLevel": "Por definir",
+  "welcomeMessage": "Una palabra, una historia, un mundo por descubrir. Tu español, a tu ritmo.",
+  "description": "Español para viajar, conversar y descubrir nuevas culturas.",
+  "interfaceLanguage": "es",
+  "themeColors": {
+    "hunyadiYellow": "#E0A03F",
+    "auburn": "#9F2B2C",
+    "vanilla": "#FEF3B1",
+    "slateGray": "#355D67"
+  },
+  "privacyNote": "No publiques datos sensibles o privados de estudiantes en repositorios públicos."
+}
